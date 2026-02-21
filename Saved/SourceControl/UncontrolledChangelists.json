@@ -5,18 +5,6 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"D:/Unreal Projects/Spell-and-Keys/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
-				"D:/Unreal Projects/Spell-and-Keys/Content/Widgets/WBP_BattleUI.uasset",
-				"D:/Unreal Projects/Spell-and-Keys/Content/Widgets/WBP_BattleMenu.uasset",
-				"C:/Users/User/Documents/Unreal Projects/Spell-and-Keys/Content/Blueprints/skills/BP_skill_base.uasset",
-				"C:/Users/User/Documents/Unreal Projects/Spell-and-Keys/Content/Blueprints/skills/TypingManager.uasset",
-				"C:/Users/User/Documents/Unreal Projects/Spell-and-Keys/Content/Blueprints/skills/Word/Word_Data.uasset",
-				"C:/Users/User/Documents/Unreal Projects/Spell-and-Keys/Content/Blueprints/skills/Word/WordPool.uasset",
-				"C:/Users/User/Documents/Unreal Projects/Spell-and-Keys/Content/Maps/L_Battle.umap",
-				"C:/Users/User/Documents/Unreal Projects/Spell-and-Keys/Content/Blueprints/BP_GameMode_Battle.uasset",
-				"C:/Users/User/Documents/Unreal Projects/Spell-and-Keys/Content/Widgets/WBP_BattleMenu.uasset",
-				"C:/Users/User/Documents/Unreal Projects/Spell-and-Keys/Content/Blueprints/skills/Word_Data.uasset",
-				"D:/Unreal Projects/Spell-and-Keys/Content/Widgets/WBP_PlayerHP.uasset",
 				"C:/Users/User/OneDrive/Documents/Unreal Projects/MyProject/Content/Maps/L_MainMenu.umap",
 				"C:/Users/User/OneDrive/Documents/Unreal Projects/MyProject/Content/Maps/L_Battle.umap",
 				"C:/Users/User/OneDrive/Documents/Unreal Projects/MyProject/Content/Blueprints/E_BattleState.uasset",
@@ -30,8 +18,22 @@
 				"C:/Users/User/OneDrive/Documents/Unreal Projects/MyProject/Content/Widgets/WBP_BattleUI.uasset",
 				"C:/Users/User/OneDrive/Documents/Unreal Projects/MyProject/Content/Widgets/WBP_EnemyHP.uasset",
 				"C:/Users/User/OneDrive/Documents/Unreal Projects/MyProject/Content/Blueprints/BP_PlayerController_Battle.uasset",
-				"C:/Users/User/OneDrive/Documents/Unreal Projects/MyProject/Content/Materials/M_Outline.uasset",
-				"C:/Users/User/OneDrive/Documents/Unreal Projects/MyProject/Content/Materials/M_SelectionCircle.uasset"
+				"C:/Users/User/OneDrive/Documents/Unreal Projects/MyProject/Content/Materials/M_SelectionCircle.uasset",
+				"C:/Users/User/OneDrive/Documents/Unreal Projects/Spell-and-Keys/Content/Blueprints/BP_GameMode_Battle.uasset",
+				"C:/Users/User/OneDrive/Documents/Unreal Projects/Spell-and-Keys/Content/Widgets/WBP_BattleMenu.uasset",
+				"D:/Unreal Projects/Spell-and-Keys/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"D:/Unreal Projects/Spell-and-Keys/Content/Widgets/WBP_BattleUI.uasset",
+				"D:/Unreal Projects/Spell-and-Keys/Content/Widgets/WBP_BattleMenu.uasset",
+				"C:/Users/User/Documents/Unreal Projects/Spell-and-Keys/Content/Blueprints/skills/BP_skill_base.uasset",
+				"C:/Users/User/Documents/Unreal Projects/Spell-and-Keys/Content/Blueprints/skills/TypingManager.uasset",
+				"C:/Users/User/Documents/Unreal Projects/Spell-and-Keys/Content/Blueprints/skills/Word/Word_Data.uasset",
+				"C:/Users/User/Documents/Unreal Projects/Spell-and-Keys/Content/Blueprints/skills/Word/WordPool.uasset",
+				"C:/Users/User/Documents/Unreal Projects/Spell-and-Keys/Content/Maps/L_Battle.umap",
+				"C:/Users/User/Documents/Unreal Projects/Spell-and-Keys/Content/Blueprints/BP_GameMode_Battle.uasset",
+				"C:/Users/User/Documents/Unreal Projects/Spell-and-Keys/Content/Widgets/WBP_BattleMenu.uasset",
+				"C:/Users/User/Documents/Unreal Projects/Spell-and-Keys/Content/Blueprints/skills/Word_Data.uasset",
+				"D:/Unreal Projects/Spell-and-Keys/Content/Widgets/WBP_PlayerHP.uasset",
+				"C:/Users/User/OneDrive/Documents/Unreal Projects/MyProject/Content/Materials/M_Outline.uasset"
 			]
 		}
 	]
