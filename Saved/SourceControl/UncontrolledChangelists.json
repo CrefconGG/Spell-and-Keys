@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/User/Documents/Unreal Projects/Spell-and-Keys/Content/Blueprints/skills/BP_skill_base.uasset",
+				"C:/Users/User/Documents/Unreal Projects/Spell-and-Keys/Content/Blueprints/skills/TypingManager.uasset",
+				"C:/Users/User/Documents/Unreal Projects/Spell-and-Keys/Content/Blueprints/skills/Word_Data.uasset",
+				"C:/Users/User/Documents/Unreal Projects/Spell-and-Keys/Content/Blueprints/skills/Word/Word_Data.uasset",
+				"C:/Users/User/Documents/Unreal Projects/Spell-and-Keys/Content/Blueprints/skills/Word/WordPool.uasset",
 				"D:/Unreal Projects/Spell-and-Keys/Content/Widgets/WBP_PlayerHP.uasset",
 				"D:/Unreal Projects/Spell-and-Keys/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"D:/Unreal Projects/Spell-and-Keys/Content/Widgets/WBP_BattleUI.uasset",
