@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/Unreal Projects/Spell-and-Keys/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"D:/Unreal Projects/Spell-and-Keys/Content/Widgets/WBP_BattleUI.uasset",
+				"D:/Unreal Projects/Spell-and-Keys/Content/Widgets/WBP_BattleMenu.uasset",
 				"C:/Users/User/Documents/Unreal Projects/Spell-and-Keys/Content/Blueprints/skills/BP_skill_base.uasset",
 				"C:/Users/User/Documents/Unreal Projects/Spell-and-Keys/Content/Blueprints/skills/TypingManager.uasset",
 				"C:/Users/User/Documents/Unreal Projects/Spell-and-Keys/Content/Blueprints/skills/Word/Word_Data.uasset",
@@ -14,8 +17,6 @@
 				"C:/Users/User/Documents/Unreal Projects/Spell-and-Keys/Content/Widgets/WBP_BattleMenu.uasset",
 				"C:/Users/User/Documents/Unreal Projects/Spell-and-Keys/Content/Blueprints/skills/Word_Data.uasset",
 				"D:/Unreal Projects/Spell-and-Keys/Content/Widgets/WBP_PlayerHP.uasset",
-				"D:/Unreal Projects/Spell-and-Keys/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
-				"D:/Unreal Projects/Spell-and-Keys/Content/Widgets/WBP_BattleUI.uasset",
 				"C:/Users/User/OneDrive/Documents/Unreal Projects/MyProject/Content/Maps/L_MainMenu.umap",
 				"C:/Users/User/OneDrive/Documents/Unreal Projects/MyProject/Content/Maps/L_Battle.umap",
 				"C:/Users/User/OneDrive/Documents/Unreal Projects/MyProject/Content/Blueprints/E_BattleState.uasset",
