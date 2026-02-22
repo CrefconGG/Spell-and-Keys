@@ -1854,3 +1854,92 @@ BUILD FAILED
 [2026.02.22-08.40.56:050][922]LogPlayLevel: Display: Destroying online subsystem :Context_14
 [2026.02.22-08.41.05:790][455]LogSlate: Window 'Color Picker' being destroyed
 [2026.02.22-08.41.10:176][954]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2026.02.22-08.42.45:666][861]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1400.507568
+[2026.02.22-08.42.46:024][891]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.22-08.42.46:024][891]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1400.855225, Update Interval: 342.540344
+[2026.02.22-08.42.47:797][ 22]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_EnemyBase.BP_EnemyBase
+[2026.02.22-08.42.47:797][ 22]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_7
+[2026.02.22-08.42.48:500][ 23]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_8
+[2026.02.22-08.42.48:569][ 25]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_9
+[2026.02.22-08.43.00:135][264]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2026.02.22-08.43.00:135][264]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.22-08.43.00:220][264]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2026.02.22-08.43.04:594][740]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2026.02.22-08.43.04:603][740]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.22-08.43.04:661][740]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_GameMode_Battle] ([2] browsable assets)...
+[2026.02.22-08.43.04:661][740]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_GameMode_Battle]
+[2026.02.22-08.43.04:715][740]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_GameMode_Battle
+[2026.02.22-08.43.04:715][740]LogSavePackage: Moving '../../../../../../Users/User/OneDrive/Documents/Unreal Projects/Spell-and-Keys/Saved/BP_GameMode_BattleF30EE01A4CBE2306278F7090018CFCDC.tmp' to '../../../../../../Users/User/OneDrive/Documents/Unreal Projects/Spell-and-Keys/Content/Blueprints/BP_GameMode_Battle.uasset'
+[2026.02.22-08.43.04:721][740]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_EnemyBase] ([2] browsable assets)...
+[2026.02.22-08.43.04:721][740]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_EnemyBase]
+[2026.02.22-08.43.04:721][740]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_EnemyBase" FILE="../../../../../../Users/User/OneDrive/Documents/Unreal Projects/Spell-and-Keys/Content/Blueprints/BP_EnemyBase.uasset" SILENT=true
+[2026.02.22-08.43.04:740][740]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_EnemyBase
+[2026.02.22-08.43.04:741][740]LogSavePackage: Moving '../../../../../../Users/User/OneDrive/Documents/Unreal Projects/Spell-and-Keys/Saved/BP_EnemyBase9A0F755E46EECF6C4D0E1B8672B8D282.tmp' to '../../../../../../Users/User/OneDrive/Documents/Unreal Projects/Spell-and-Keys/Content/Blueprints/BP_EnemyBase.uasset'
+[2026.02.22-08.43.04:753][740]LogFileHelpers: InternalPromptForCheckoutAndSave took 148.986 ms
+[2026.02.22-08.43.04:821][740]LogContentValidation: Display: Starting to validate 2 assets
+[2026.02.22-08.43.04:821][740]LogContentValidation: Enabled validators:
+[2026.02.22-08.43.04:822][740]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.22-08.43.04:822][740]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.22-08.43.04:822][740]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.22-08.43.04:822][740]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.22-08.43.04:822][740]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.22-08.43.04:822][740]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.22-08.43.04:824][740]AssetCheck: /Game/Blueprints/BP_GameMode_Battle Validating asset
+[2026.02.22-08.43.04:824][740]AssetCheck: /Game/Blueprints/BP_EnemyBase Validating asset
+[2026.02.22-08.43.04:859][740]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/User/OneDrive/Documents/Unreal Projects/Spell-and-Keys/Saved/SourceControl/UncontrolledChangelists.json
+[2026.02.22-08.43.49:163][606]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_PlayerController_Battle.BP_PlayerController_Battle
+[2026.02.22-08.43.49:163][606]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_10
+[2026.02.22-08.43.57:469][527]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2026.02.22-08.43.57:469][527]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.22-08.43.57:545][527]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2026.02.22-08.44.22:189][884]LogSlate: Window 'Color Picker' being destroyed
+[2026.02.22-08.44.45:781][604]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2026.02.22-08.44.49:464][904]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_EnemyBase.BP_EnemyBase
+[2026.02.22-08.44.49:464][904]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_11
+[2026.02.22-08.45.40:604][826]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2026.02.22-08.45.40:605][826]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/L_Battle' took 0.044
+[2026.02.22-08.45.40:608][826]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_GameMode_Battle] ([2] browsable assets)...
+[2026.02.22-08.45.40:608][826]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_GameMode_Battle]
+[2026.02.22-08.45.40:644][826]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/BP_GameMode_Battle_Auto1
+[2026.02.22-08.45.40:644][826]LogSavePackage: Moving '../../../../../../Users/User/OneDrive/Documents/Unreal Projects/Spell-and-Keys/Saved/BP_GameMode_Battle_Auto1A7890BA4461F470FE5E4A7AFD30E5692.tmp' to '../../../../../../Users/User/OneDrive/Documents/Unreal Projects/Spell-and-Keys/Saved/Autosaves/Game/Blueprints/BP_GameMode_Battle_Auto1.uasset'
+[2026.02.22-08.45.40:646][826]LogFileHelpers: Auto-saving content packages took 0.039
+[2026.02.22-08.48.52:686][112]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1767.520874
+[2026.02.22-08.48.54:346][117]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.22-08.48.54:346][118]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1768.843994, Update Interval: 321.290314
+[2026.02.22-08.52.27:913][ 31]LogWindowsTextInputMethodSystem: Activated input method: Thai (Thailand) - (Keyboard).
+[2026.02.22-08.52.27:914][ 31]LogWindowsTextInputMethodSystem: Activated input method: Thai (Thailand) - (Keyboard).
+[2026.02.22-08.54.52:976][164]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2127.811523
+[2026.02.22-08.54.53:977][167]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.22-08.54.53:977][167]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2128.477539, Update Interval: 323.463837
+[2026.02.22-09.01.05:538][932]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2500.371338
+[2026.02.22-09.01.06:872][936]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.22-09.01.06:872][936]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2501.370850, Update Interval: 346.696991
+[2026.02.22-09.05.14:138][504]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2026.02.22-09.05.14:141][504]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/L_Battle' took 0.034
+[2026.02.22-09.05.14:142][504]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_GameMode_Battle] ([2] browsable assets)...
+[2026.02.22-09.05.14:142][504]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_GameMode_Battle]
+[2026.02.22-09.05.14:187][504]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/BP_GameMode_Battle_Auto2
+[2026.02.22-09.05.14:187][504]LogSavePackage: Moving '../../../../../../Users/User/OneDrive/Documents/Unreal Projects/Spell-and-Keys/Saved/BP_GameMode_Battle_Auto262EE0CAE4BA9DBAE379D1B88E99DF8C1.tmp' to '../../../../../../Users/User/OneDrive/Documents/Unreal Projects/Spell-and-Keys/Saved/Autosaves/Game/Blueprints/BP_GameMode_Battle_Auto2.uasset'
+[2026.02.22-09.05.14:188][504]LogFileHelpers: Auto-saving content packages took 0.047
+[2026.02.22-09.07.32:028][918]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2886.853027
+[2026.02.22-09.07.33:030][921]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.22-09.07.33:030][921]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2887.521973, Update Interval: 316.304199
+[2026.02.22-09.09.13:119][713]LogSlate: Took 0.008829 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2026.02.22-09.09.48:052][607]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2026.02.22-09.11.43:238][744]LogSlate: Took 0.010953 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2026.02.22-09.11.43:238][744]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+e34, getting last resort font data ../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf
+[2026.02.22-09.11.43:238][744]LogSlate: Last resort fallback font was requested. Font: '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf', Character: 'ิ (U+0e34)'
+[2026.02.22-09.11.43:250][744]LogSlate: Took 0.011407 seconds to synchronously load lazily loaded font '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' (5269K)
+[2026.02.22-09.11.43:264][744]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+e34, getting last resort font data ../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf
+[2026.02.22-09.11.44:658][907]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2026.02.22-09.11.44:658][907]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2026.02.22-09.13.37:430][646]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3252.252930
+[2026.02.22-09.13.39:067][709]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.22-09.13.39:067][709]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3253.558350, Update Interval: 354.277771
+[2026.02.22-09.15.29:121][593]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2026.02.22-09.15.29:122][593]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/L_Battle' took 0.034
+[2026.02.22-09.15.29:123][593]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_GameMode_Battle] ([2] browsable assets)...
+[2026.02.22-09.15.29:123][593]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_GameMode_Battle]
+[2026.02.22-09.15.29:165][593]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/BP_GameMode_Battle_Auto3
+[2026.02.22-09.15.29:166][593]LogSavePackage: Moving '../../../../../../Users/User/OneDrive/Documents/Unreal Projects/Spell-and-Keys/Saved/BP_GameMode_Battle_Auto3FA8EC722453D21C038F3B48D32ECDF6B.tmp' to '../../../../../../Users/User/OneDrive/Documents/Unreal Projects/Spell-and-Keys/Saved/Autosaves/Game/Blueprints/BP_GameMode_Battle_Auto3.uasset'
+[2026.02.22-09.15.29:166][593]LogFileHelpers: Auto-saving content packages took 0.045
